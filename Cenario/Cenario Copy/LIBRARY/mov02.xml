@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mov02" itemID="4f35662c-00000551" lastModified="1328992646" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="mov02">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetal1" name="vg01" centerPoint3DX="41.55" centerPoint3DY="29.4">
+                  <matrix>
+                    <Matrix tx="9.05" ty="5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.5" y="23.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetal3" name="vg03" centerPoint3DX="84" centerPoint3DY="63">
+                  <matrix>
+                    <Matrix tx="60" ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24" y="29"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetatl4" name="vg04" centerPoint3DX="30.55" centerPoint3DY="90.6">
+                  <matrix>
+                    <Matrix tx="9.05" ty="63.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.5" y="27"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetal2" name="vg02" centerPoint3DX="73.7" centerPoint3DY="133.8">
+                  <matrix>
+                    <Matrix tx="44.2" ty="111.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="22.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mov06" itemID="4f356673-00000561" lastModified="1328992457" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="mov06">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce4" name="dc01" centerPoint3DX="25" centerPoint3DY="30.95">
+                  <matrix>
+                    <Matrix tx="5.5" ty="7.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="23.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce2" name="dc02" centerPoint3DX="64" centerPoint3DY="53.1">
+                  <matrix>
+                    <Matrix tx="44.5" ty="26.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="26.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce3" name="dc03" centerPoint3DX="24" centerPoint3DY="93.05">
+                  <matrix>
+                    <Matrix tx="-9" ty="68.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="24.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce01" name="dc04" centerPoint3DX="60" centerPoint3DY="139.5">
+                  <matrix>
+                    <Matrix tx="39.5" ty="118"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.5" y="21.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

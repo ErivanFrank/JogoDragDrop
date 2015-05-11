@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mov01" itemID="4f3565ff-0000054d" lastModified="1328993133" lastUniqueIdentifier="15">
+  <timeline>
+    <DOMTimeline name="mov01">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta5" name="fr01" centerPoint3DX="22" centerPoint3DY="21.5">
+                  <matrix>
+                    <Matrix a="0.882492065429688" tx="2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22" y="21.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta4" name="fr05" centerPoint3DX="18.45" centerPoint3DY="112.8">
+                  <matrix>
+                    <Matrix a="0.789810180664063" tx="1.85" ty="86.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21" y="26"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta1" name="fr03" centerPoint3DX="66.95" centerPoint3DY="29.3">
+                  <matrix>
+                    <Matrix tx="41.45" ty="5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.5" y="24"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta3" name="fr04" centerPoint3DX="28.95" centerPoint3DY="71.55">
+                  <matrix>
+                    <Matrix tx="-5.05" ty="48.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34" y="27.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta2" name="fr02" centerPoint3DX="67.65" centerPoint3DY="116.05">
+                  <matrix>
+                    <Matrix a="0.617462158203125" tx="48.2" ty="95.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="21"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

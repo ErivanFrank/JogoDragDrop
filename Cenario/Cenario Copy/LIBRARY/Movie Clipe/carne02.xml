@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Movie Clipe/carne02" itemID="4f315dbd-000004c9" lastModified="1328635325">
+  <timeline>
+    <DOMTimeline name="carne02">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap/Carne02.png">
+                  <matrix>
+                    <Matrix d="1.0711669921875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="14"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

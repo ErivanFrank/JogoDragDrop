@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mov05" itemID="4f35665d-0000055d" lastModified="1328992156" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="mov05">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne02" name="cn01" centerPoint3DX="28" centerPoint3DY="22.9">
+                  <matrix>
+                    <Matrix tx="-2" ty="7.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne3" name="cn02" centerPoint3DX="31" centerPoint3DY="109">
+                  <matrix>
+                    <Matrix tx="-2" ty="82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="27"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne1" name="cn04" centerPoint3DX="51" centerPoint3DY="50.9">
+                  <matrix>
+                    <Matrix tx="11.5" ty="35.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="15.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne4" name="cn03" centerPoint3DX="82" centerPoint3DY="82.65">
+                  <matrix>
+                    <Matrix d="0.854537963867188" tx="51" ty="59.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31" y="27.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

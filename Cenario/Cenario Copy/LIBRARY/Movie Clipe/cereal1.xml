@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Movie Clipe/cereal1" itemID="4f3154a2-0000044f" lastModified="1328632994">
+  <timeline>
+    <DOMTimeline name="cereal1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bitmap/Cereal01.png">
+                  <matrix>
+                    <Matrix a="0.7528076171875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.5" y="18.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

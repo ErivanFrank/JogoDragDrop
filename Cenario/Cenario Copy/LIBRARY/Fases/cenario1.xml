@@ -1,0 +1,344 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Fases/cenario1" itemID="4f378e2b-00000449" linkageExportForAS="true" linkageClassName="cenario_mv1" lastModified="1329041147" lastUniqueIdentifier="422">
+  <timeline>
+    <DOMTimeline name="cenario1">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#0000FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1200 3300|1200 5760!1200 5760[1200 5990 1430 5990!1430 5990|2710 5990!2710 5990[2940 5990 2940 5760!2940 5760|2940 3300!2940 3300[2940 3070 2710 3070!2710 3070|1430 3070!1430 3070[1200 3070 1200 3300"/>
+                    <Edge cubics="!2940 3300(;2940,3147 2863,3070 2710,3070q2940 3300Q2940 3070q2710 3070);"/>
+                    <Edge cubics="!1430 3070(;1277,3070 1200,3147 1200,3300q1430 3070Q1200 3070q1200 3300);"/>
+                    <Edge cubics="!1200 5760(;1200,5913 1277,5990 1430,5990q1200 5760Q1200 5990q1430 5990);"/>
+                    <Edge cubics="!2710 5990(;2863,5990 2940,5913 2940,5760q2710 5990Q2940 5990q2940 5760);"/>
+                    <Edge cubics="!1200 3300(;1200,3300 1200,5760 1200,5760q1200 3300 1200 5760);"/>
+                    <Edge cubics="!2710 3070(;2710,3070 1430,3070 1430,3070q2710 3070 1430 3070);"/>
+                    <Edge cubics="!2940 5760(;2940,5760 2940,3300 2940,3300q2940 5760 2940 3300);"/>
+                    <Edge cubics="!1430 5990(;1430,5990 2710,5990 2710,5990q1430 5990 2710 5990);"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="Bitmap/Cenario.png">
+                  <matrix>
+                    <Matrix ty="-2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="Fases/faixafase01" centerPoint3DX="439.3" centerPoint3DY="65">
+                  <matrix>
+                    <Matrix tx="138.8" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="300.5" y="64.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="Bitmap/Faixafase01.png">
+                  <matrix>
+                    <Matrix tx="261.45" ty="-2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Bitmap/Menufase01.png">
+                  <matrix>
+                    <Matrix d="1.59274291992188" ty="368.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="450" y="40.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetatl4" name="objetovg04" centerPoint3DX="27.35" centerPoint3DY="465.85">
+                  <matrix>
+                    <Matrix tx="5.85" ty="438.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.5" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/laticinio4" name="objetolt02" centerPoint3DX="78" centerPoint3DY="468.35">
+                  <matrix>
+                    <Matrix tx="54.5" ty="443.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta5" name="objetofr01" centerPoint3DX="130" centerPoint3DY="466.35">
+                  <matrix>
+                    <Matrix tx="108" ty="444.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce4" name="objetodc01" centerPoint3DX="804.95" centerPoint3DY="415.35">
+                  <matrix>
+                    <Matrix tx="785.45" ty="391.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="23.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/cereal3" name="objetocr02" centerPoint3DX="244" centerPoint3DY="410.85">
+                  <matrix>
+                    <Matrix tx="215.5" ty="389.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.5" y="21"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne4" name="objetocn03" centerPoint3DX="230.45" centerPoint3DY="465.35">
+                  <matrix>
+                    <Matrix d="0.854537963867188" tx="199.45" ty="441.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/cereal2" name="objetocr01" centerPoint3DX="310.85" centerPoint3DY="463.35">
+                  <matrix>
+                    <Matrix tx="291.85" ty="434.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce3" name="objetodc03" centerPoint3DX="394.95" centerPoint3DY="468.35">
+                  <matrix>
+                    <Matrix tx="361.95" ty="443.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta4" name="objetofr05" centerPoint3DX="471.95" centerPoint3DY="462.85">
+                  <matrix>
+                    <Matrix tx="450.95" ty="436.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/laticinios3" name="objetolt03" centerPoint3DX="537.3" centerPoint3DY="465.35">
+                  <matrix>
+                    <Matrix tx="522.8" ty="435.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetal3" name="objetovg03" centerPoint3DX="599.95" centerPoint3DY="465.35">
+                  <matrix>
+                    <Matrix tx="575.95" ty="436.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24" y="29"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne3" name="objetocn02" centerPoint3DX="644.95" centerPoint3DY="411">
+                  <matrix>
+                    <Matrix tx="611.95" ty="384"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="27"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/cereal1" name="objetocr03" centerPoint3DX="685.3" centerPoint3DY="466.35">
+                  <matrix>
+                    <Matrix tx="651.8" ty="447.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.5" y="18.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce2" name="objetodc02" centerPoint3DX="777.95" centerPoint3DY="463.35">
+                  <matrix>
+                    <Matrix tx="758.45" ty="436.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="26.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta3" name="objetofr04" centerPoint3DX="845.3" centerPoint3DY="466.35">
+                  <matrix>
+                    <Matrix tx="811.3" ty="442.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/laticinios2" name="objetolt01" centerPoint3DX="33.35" centerPoint3DY="407.35">
+                  <matrix>
+                    <Matrix tx="14.85" ty="385.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.5" y="22"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetal2" name="objetovg02" centerPoint3DX="92.35" centerPoint3DY="407.35">
+                  <matrix>
+                    <Matrix tx="62.85" ty="384.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="22.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta2" name="objetofr02" centerPoint3DX="169.35" centerPoint3DY="409.35">
+                  <matrix>
+                    <Matrix tx="137.85" ty="388.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="21"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/laticinios1" name="objetolt04" centerPoint3DX="471.25" centerPoint3DY="407.35">
+                  <matrix>
+                    <Matrix tx="439.25" ty="390.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32" y="17"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/vegetal1" name="objetovg01" centerPoint3DX="560.3" centerPoint3DY="408.85">
+                  <matrix>
+                    <Matrix tx="527.8" ty="385.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.5" y="23.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne1" name="objetocn04" centerPoint3DX="738.3" centerPoint3DY="414.85">
+                  <matrix>
+                    <Matrix tx="698.8" ty="399.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="15.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/fruta1" name="objetofr03" centerPoint3DX="854.8" centerPoint3DY="412.35">
+                  <matrix>
+                    <Matrix tx="829.3" ty="388.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.5" y="24"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/doce01" name="objetodc04" centerPoint3DX="309.35" centerPoint3DY="408.35">
+                  <matrix>
+                    <Matrix tx="288.85" ty="386.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.5" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Movie Clipe/carne02" name="objetocn01" centerPoint3DX="387.95" centerPoint3DY="407.35">
+                  <matrix>
+                    <Matrix tx="357.95" ty="392.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="69.65" height="22.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="729.3" ty="11"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Tempo:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="TektonPro-BoldCond" fillColor="#6633FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="tempo_txt" width="77" height="22.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="810.3" ty="14.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10:00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="TektonPro-BoldCond" fillColor="#6633FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="mov01" name="pratileirafr1" centerPoint3DX="122.45" centerPoint3DY="252">
+                  <matrix>
+                    <Matrix a="1.13792419433594" d="1.04107666015625" tx="72.95" ty="176"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="73"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mov02" name="pratileiravg" centerPoint3DX="243.95" centerPoint3DY="246.5">
+                  <matrix>
+                    <Matrix a="0.962966918945313" d="0.833328247070313" tx="191.95" ty="171.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54" y="90"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mov03" name="pratileiralt1" centerPoint3DX="374.45" centerPoint3DY="245.5">
+                  <matrix>
+                    <Matrix a="0.92523193359375" tx="324.95" ty="168"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="77.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mov04" name="pratileiracr" centerPoint3DX="502.3" centerPoint3DY="245">
+                  <matrix>
+                    <Matrix tx="452.8" ty="170"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mov05" name="pratileiracn" centerPoint3DX="628.95" centerPoint3DY="255.5">
+                  <matrix>
+                    <Matrix d="1.21295166015625" tx="576.95" ty="170"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52" y="70.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mov06" name="pratileiradc1" centerPoint3DX="771.3" centerPoint3DY="246.5">
+                  <matrix>
+                    <Matrix d="0.9503173828125" tx="727.8" ty="170"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="80.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

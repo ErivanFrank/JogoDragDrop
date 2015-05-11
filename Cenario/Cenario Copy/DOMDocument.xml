@@ -1,0 +1,107 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="900" height="500" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" viewAngle3D="80.8511702896415" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="Bitmap" itemID="4f310ec0-00000228"/>
+          <DOMFolderItem name="Fases" itemID="4f378a2d-00000421" isExpanded="true"/>
+          <DOMFolderItem name="Movie Clipe" itemID="4f310eaf-00000224"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Bitmap/Carne01.png" itemID="4f314de2-000002a4" sourceExternalFilepath="./LIBRARY/Bitmap/Carne01.png" sourceLastImported="1328627482" originalCompressionType="lossless" quality="50" href="Bitmap/Carne01.png" bitmapDataHRef="M 25 1329039917.dat" frameRight="1580" frameBottom="620"/>
+          <DOMBitmapItem name="Bitmap/Carne02.png" itemID="4f314de2-000002a9" sourceExternalFilepath="./LIBRARY/Bitmap/Carne02.png" sourceLastImported="1328627502" originalCompressionType="lossless" quality="50" href="Bitmap/Carne02.png" bitmapDataHRef="M 28 1329039917.dat" frameRight="1200" frameBottom="560"/>
+          <DOMBitmapItem name="Bitmap/Carne03.png" itemID="4f314de2-000002ae" sourceExternalFilepath="./LIBRARY/Bitmap/Carne03.png" sourceLastImported="1328627516" originalCompressionType="lossless" quality="50" href="Bitmap/Carne03.png" bitmapDataHRef="M 16 1329039917.dat" frameRight="1320" frameBottom="1080"/>
+          <DOMBitmapItem name="Bitmap/Carne04.png" itemID="4f314de2-000002b3" sourceExternalFilepath="./LIBRARY/Bitmap/Carne04.png" sourceLastImported="1328627528" originalCompressionType="lossless" quality="50" href="Bitmap/Carne04.png" bitmapDataHRef="M 10 1329039917.dat" frameRight="1240" frameBottom="1100"/>
+          <DOMBitmapItem name="Bitmap/Cenario.png" itemID="4f314d55-00000292" sourceExternalFilepath="./LIBRARY/Bitmap/Cenario.png" sourceLastImported="1328627294" originalCompressionType="lossless" quality="50" href="Bitmap/Cenario.png" bitmapDataHRef="M 1 1329039917.dat" frameRight="18000" frameBottom="10000"/>
+          <DOMBitmapItem name="Bitmap/Cereal01.png" itemID="4f314de3-000002bd" sourceExternalFilepath="./LIBRARY/Bitmap/Cereal01.png" sourceLastImported="1328627552" originalCompressionType="lossless" quality="50" href="Bitmap/Cereal01.png" bitmapDataHRef="M 17 1329039917.dat" frameRight="1780" frameBottom="740"/>
+          <DOMBitmapItem name="Bitmap/Cereal02.png" itemID="4f314de3-000002c2" sourceExternalFilepath="./LIBRARY/Bitmap/Cereal02.png" sourceLastImported="1328627570" originalCompressionType="lossless" quality="50" href="Bitmap/Cereal02.png" bitmapDataHRef="M 11 1329039917.dat" frameRight="760" frameBottom="1140"/>
+          <DOMBitmapItem name="Bitmap/Cereal03.png" itemID="4f314de3-000002c7" sourceExternalFilepath="./LIBRARY/Bitmap/Cereal03.png" sourceLastImported="1328627586" originalCompressionType="lossless" quality="50" href="Bitmap/Cereal03.png" bitmapDataHRef="M 9 1329039917.dat" frameRight="1140" frameBottom="840"/>
+          <DOMBitmapItem name="Bitmap/Doce01.png" itemID="4f314de3-000002cc" sourceExternalFilepath="./LIBRARY/Bitmap/Doce01.png" sourceLastImported="1328627418" originalCompressionType="lossless" quality="50" href="Bitmap/Doce01.png" bitmapDataHRef="M 27 1329039917.dat" frameRight="820" frameBottom="860"/>
+          <DOMBitmapItem name="Bitmap/Doce02.png" itemID="4f314de3-000002d1" sourceExternalFilepath="./LIBRARY/Bitmap/Doce02.png" sourceLastImported="1328627430" originalCompressionType="lossless" quality="50" href="Bitmap/Doce02.png" bitmapDataHRef="M 18 1329039917.dat" frameRight="780" frameBottom="1060"/>
+          <DOMBitmapItem name="Bitmap/Doce03.png" itemID="4f314de3-000002d6" sourceExternalFilepath="./LIBRARY/Bitmap/Doce03.png" sourceLastImported="1328627444" originalCompressionType="lossless" quality="50" href="Bitmap/Doce03.png" bitmapDataHRef="M 12 1329039917.dat" frameRight="1320" frameBottom="980"/>
+          <DOMBitmapItem name="Bitmap/Doce04.png" itemID="4f314de3-000002db" sourceExternalFilepath="./LIBRARY/Bitmap/Doce04.png" sourceLastImported="1328627460" originalCompressionType="lossless" quality="50" href="Bitmap/Doce04.png" bitmapDataHRef="M 8 1329039917.dat" frameRight="780" frameBottom="940"/>
+          <DOMBitmapItem name="Bitmap/Faixafase01.png" itemID="4f378ed2-00000454" sourceExternalFilepath="./LIBRARY/Bitmap/Faixa01.png" sourceLastImported="1329041106" originalCompressionType="lossless" quality="50" href="Bitmap/Faixafase01.png" bitmapDataHRef="M 3 1329039917.dat" frameRight="7620" frameBottom="2800"/>
+          <DOMBitmapItem name="Bitmap/Faixafase02.png" itemID="4f378edd-00000455" sourceExternalFilepath="./LIBRARY/Bitmap/Faixa02.png" sourceLastImported="1329041117" originalCompressionType="lossless" quality="50" href="Bitmap/Faixafase02.png" bitmapDataHRef="M 2 1329039917.dat" frameRight="12020" frameBottom="2580"/>
+          <DOMBitmapItem name="Bitmap/Fruta01.png" itemID="4f314de3-000002ef" sourceExternalFilepath="./LIBRARY/Bitmap/Fruta01.png" sourceLastImported="1328627820" originalCompressionType="lossless" quality="50" href="Bitmap/Fruta01.png" bitmapDataHRef="M 26 1329039917.dat" frameRight="1020" frameBottom="960"/>
+          <DOMBitmapItem name="Bitmap/Fruta02.png" itemID="4f314de3-000002f4" sourceExternalFilepath="./LIBRARY/Bitmap/Fruta02.png" sourceLastImported="1328627836" originalCompressionType="lossless" quality="50" href="Bitmap/Fruta02.png" bitmapDataHRef="M 22 1329039917.dat" frameRight="1460" frameBottom="1000"/>
+          <DOMBitmapItem name="Bitmap/Fruta03.png" itemID="4f314de3-000002f9" sourceExternalFilepath="./LIBRARY/Bitmap/Fruta03.png" sourceLastImported="1328627854" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap/Fruta03.png" bitmapDataHRef="M 19 1329039917.dat" frameRight="1360" frameBottom="940"/>
+          <DOMBitmapItem name="Bitmap/Fruta04.png" itemID="4f314de3-000002fe" sourceExternalFilepath="./LIBRARY/Bitmap/Fruta04.png" sourceLastImported="1328627868" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap/Fruta04.png" bitmapDataHRef="M 13 1329039917.dat" frameRight="840" frameBottom="1040"/>
+          <DOMBitmapItem name="Bitmap/Fruta05.png" itemID="4f314de3-00000303" sourceExternalFilepath="./LIBRARY/Bitmap/Fruta05.png" sourceLastImported="1328627882" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap/Fruta05.png" bitmapDataHRef="M 7 1329039917.dat" frameRight="1200" frameBottom="1220"/>
+          <DOMBitmapItem name="Bitmap/Laticinio01.png" itemID="4f314de3-00000308" sourceExternalFilepath="./LIBRARY/Bitmap/Laticinio01.png" sourceLastImported="1328627604" originalCompressionType="lossless" quality="50" href="Bitmap/Laticinio01.png" bitmapDataHRef="M 23 1329039917.dat" frameRight="1280" frameBottom="680"/>
+          <DOMBitmapItem name="Bitmap/Laticinio02.png" itemID="4f314de3-0000030d" sourceExternalFilepath="./LIBRARY/Bitmap/Laticinio02.png" sourceLastImported="1328627624" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap/Laticinio02.png" bitmapDataHRef="M 20 1329039917.dat" frameRight="740" frameBottom="880"/>
+          <DOMBitmapItem name="Bitmap/Laticinio03.png" itemID="4f314de3-00000312" sourceExternalFilepath="./LIBRARY/Bitmap/Laticinio03.png" sourceLastImported="1328627636" originalCompressionType="lossless" quality="50" href="Bitmap/Laticinio03.png" bitmapDataHRef="M 14 1329039917.dat" frameRight="580" frameBottom="1180"/>
+          <DOMBitmapItem name="Bitmap/Laticinio04.png" itemID="4f314de3-00000317" sourceExternalFilepath="./LIBRARY/Bitmap/Laticinio04.png" sourceLastImported="1328627652" originalCompressionType="lossless" quality="50" href="Bitmap/Laticinio04.png" bitmapDataHRef="M 6 1329039917.dat" frameRight="1140" frameBottom="980"/>
+          <DOMBitmapItem name="Bitmap/Menufase01.png" itemID="4f378efb-00000456" sourceExternalFilepath="./LIBRARY/Bitmap/Menu.png" sourceLastImported="1329041147" originalCompressionType="lossless" quality="50" href="Bitmap/Menufase01.png" bitmapDataHRef="M 4 1329039917.dat" frameRight="18000" frameBottom="1620"/>
+          <DOMBitmapItem name="Bitmap/Vegetal01.png" itemID="4f314de3-00000321" sourceExternalFilepath="./LIBRARY/Bitmap/Vegetal01.png" sourceLastImported="1328627754" originalCompressionType="lossless" quality="50" href="Bitmap/Vegetal01.png" bitmapDataHRef="M 24 1329039917.dat" frameRight="1300" frameBottom="940"/>
+          <DOMBitmapItem name="Bitmap/Vegetal02.png" itemID="4f314de4-00000326" sourceExternalFilepath="./LIBRARY/Bitmap/Vegetal02.png" sourceLastImported="1328627766" originalCompressionType="lossless" quality="50" href="Bitmap/Vegetal02.png" bitmapDataHRef="M 21 1329039917.dat" frameRight="1540" frameBottom="1180"/>
+          <DOMBitmapItem name="Bitmap/Vegetal03.png" itemID="4f314de4-0000032b" sourceExternalFilepath="./LIBRARY/Bitmap/Vegetal03.png" sourceLastImported="1328627778" originalCompressionType="lossless" quality="50" href="Bitmap/Vegetal03.png" bitmapDataHRef="M 15 1329039917.dat" frameRight="960" frameBottom="1160"/>
+          <DOMBitmapItem name="Bitmap/Vegetal04.png" itemID="4f314de4-00000330" sourceExternalFilepath="./LIBRARY/Bitmap/Vegetal04.png" sourceLastImported="1328627798" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap/Vegetal04.png" bitmapDataHRef="M 5 1329039917.dat" frameRight="860" frameBottom="1080"/>
+     </media>
+     <symbols>
+          <Include href="Fases/cenario1.xml" itemID="4f378e2b-00000449" lastModified="1329041147"/>
+          <Include href="Fases/faixafase01.xml" loadImmediate="false" itemID="4f378eaa-0000044e" lastModified="1329041066"/>
+          <Include href="mov01.xml" loadImmediate="false" itemID="4f3565ff-0000054d" lastModified="1328993133"/>
+          <Include href="mov02.xml" loadImmediate="false" itemID="4f35662c-00000551" lastModified="1328992646"/>
+          <Include href="mov03.xml" loadImmediate="false" itemID="4f35663f-00000555" lastModified="1328900179"/>
+          <Include href="mov04.xml" loadImmediate="false" itemID="4f35664c-00000559" lastModified="1328991853"/>
+          <Include href="mov05.xml" loadImmediate="false" itemID="4f35665d-0000055d" lastModified="1328992156"/>
+          <Include href="mov06.xml" loadImmediate="false" itemID="4f356673-00000561" lastModified="1328992457"/>
+          <Include href="Movie Clipe/carne1.xml" loadImmediate="false" itemID="4f31563e-000004b1" lastModified="1328633406"/>
+          <Include href="Movie Clipe/carne02.xml" loadImmediate="false" itemID="4f315dbd-000004c9" lastModified="1328635325"/>
+          <Include href="Movie Clipe/carne3.xml" loadImmediate="false" itemID="4f315482-00000444" lastModified="1328632962"/>
+          <Include href="Movie Clipe/carne4.xml" loadImmediate="false" itemID="4f3153f7-00000402" lastModified="1328632823"/>
+          <Include href="Movie Clipe/cereal1.xml" loadImmediate="false" itemID="4f3154a2-0000044f" lastModified="1328632994"/>
+          <Include href="Movie Clipe/cereal2.xml" loadImmediate="false" itemID="4f315415-0000040d" lastModified="1328632853"/>
+          <Include href="Movie Clipe/cereal3.xml" loadImmediate="false" itemID="4f3153e7-000003f7" lastModified="1328632807"/>
+          <Include href="Movie Clipe/doce01.xml" loadImmediate="false" itemID="4f315b4b-000004c3" lastModified="1328634699"/>
+          <Include href="Movie Clipe/doce2.xml" loadImmediate="false" itemID="4f3154e1-0000045a" lastModified="1328633057"/>
+          <Include href="Movie Clipe/doce3.xml" loadImmediate="false" itemID="4f315428-00000418" lastModified="1328632872"/>
+          <Include href="Movie Clipe/doce4.xml" loadImmediate="false" itemID="4f3153a7-000003ea" lastModified="1328696338"/>
+          <Include href="Movie Clipe/fruta1.xml" loadImmediate="false" itemID="4f31567f-000004ba" lastModified="1328633471"/>
+          <Include href="Movie Clipe/fruta2.xml" loadImmediate="false" itemID="4f3155b0-00000486" lastModified="1328879441"/>
+          <Include href="Movie Clipe/fruta3.xml" loadImmediate="false" itemID="4f3154f5-00000465" lastModified="1328633077"/>
+          <Include href="Movie Clipe/fruta4.xml" loadImmediate="false" itemID="4f31543a-00000423" lastModified="1328632890"/>
+          <Include href="Movie Clipe/fruta5.xml" loadImmediate="false" itemID="4f315387-000003df" lastModified="1328879437"/>
+          <Include href="Movie Clipe/laticinio4.xml" loadImmediate="false" itemID="4f315357-000003d4" lastModified="1328632663"/>
+          <Include href="Movie Clipe/laticinios1.xml" loadImmediate="false" itemID="4f31561a-0000049b" lastModified="1328633370"/>
+          <Include href="Movie Clipe/laticinios2.xml" loadImmediate="false" itemID="4f31556b-00000470" lastModified="1328633195"/>
+          <Include href="Movie Clipe/laticinios3.xml" loadImmediate="false" itemID="4f31544c-0000042e" lastModified="1328632908"/>
+          <Include href="Movie Clipe/vegetal1.xml" loadImmediate="false" itemID="4f31562e-000004a6" lastModified="1328633390"/>
+          <Include href="Movie Clipe/vegetal2.xml" loadImmediate="false" itemID="4f315589-0000047b" lastModified="1328633225"/>
+          <Include href="Movie Clipe/vegetal3.xml" loadImmediate="false" itemID="4f315466-00000439" lastModified="1328632934"/>
+          <Include href="Movie Clipe/vegetatl4.xml" loadImmediate="false" itemID="4f315345-000003ce" lastModified="1328696448"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Cena 1" currentFrame="1">
+               <layers>
+                    <DOMLayer name="Camada 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Fases/cenario1" selected="true" centerPoint3DX="450" centerPoint3DY="251.45">
+                                             <matrix>
+                                                  <Matrix ty="3.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="450" y="248"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Fases/cenario1" selected="true" centerPoint3DX="450" centerPoint3DY="251.45">
+                                             <matrix>
+                                                  <Matrix ty="3.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="450" y="248"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

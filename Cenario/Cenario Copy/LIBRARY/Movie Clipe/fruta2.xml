@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Movie Clipe/fruta2" itemID="4f3155b0-00000486" lastModified="1328879441" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="fruta2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#0000FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!743 613[696 660 630 660!630 660[564 660 517 613!517 613[470 566 470 500!470 500[470 434 517 387!517 387[564 340 630 340!630 340[696 340 743 387!743 387[790 434 790 500!790 500[790 566 743 613"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="Bitmap/Fruta02.png">
+                  <matrix>
+                    <Matrix a="0.863006591796875" d="0.839996337890625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.5" y="25"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

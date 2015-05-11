@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Movie Clipe/vegetal2" itemID="4f315589-0000047b" lastModified="1328633225">
+  <timeline>
+    <DOMTimeline name="vegetal2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap/Vegetal02.png">
+                  <matrix>
+                    <Matrix a="0.7662353515625" d="0.762710571289063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="38.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
